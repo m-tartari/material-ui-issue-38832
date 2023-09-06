@@ -1,8 +1,8 @@
 # Mui Issue
 
-This is a simplified project for mui/material-ui/issues#.
+This is a simplified project for mui/material-ui#38832.
 
-Tooltip does not follow the target object when moves
+Tooltip does not update position after the target object moves
 
 ## Set-up
 
